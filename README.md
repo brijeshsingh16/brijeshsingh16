@@ -1,5 +1,13 @@
 # 💫 About Me:
-Passionated and motivated BCA graduate with a strong interest in full stack web development. Experienced in building responsive and user-friendly websites using modern technologies like HTML, CSS, JavaScript, PHP, and MySQL. Eager to contribute to real-world projects and continuously improve coding abilities. <br>EXPERIENCE Webskynet IT Solution Prayagraj, Uttar Pradesh Web Developer Intern / Junior Web Developer Collaborated on the development of responsive web applications using PHP, MySQL, and Bootstrap. Assisted in designing user-centric interfaces, focusing on UI/UX development and mobile-first responsiveness. Worked on database management tasks, ensuring efficient data handling for client projects. Troubleshot and resolved front-end and back-end bugs to improve website performance and user experience. <br>TECHNICAL SKILLS Languages: HTML5, CSS3, JavaScript (ES6+), PHP Database: MySQL Frameworks: Bootstrap Interests: Web Design, UI/UX Development, Problem Solving. <br>PERSONAL PROJECTS Learning Management System (LMS) | PHP, MySQL, Bootstrap Developed a web-based platform for educational content management. Implemented a secure user authentication and login system and managed database architecture. Portfolio Website | HTML, CSS, JavaScript, Bootstrap Designed and deployed a responsive personal portfolio to showcase projects. Focused on cross-browser compatibility and mobile-first responsiveness.
+Passionated and motivated BCA graduate with a strong interest in full stack web development. Experienced in building responsive and user-friendly websites using modern technologies like HTML, CSS, JavaScript, PHP, and MySQL. Eager to contribute to real-world projects and continuously improve coding abilities. <br><br> 
+
+EXPERIENCE Webskynet IT Solution Prayagraj, Uttar Pradesh<br><br>
+Web Developer Intern / Junior Web Developer Collaborated on the development of responsive web applications using PHP, MySQL, and Bootstrap. Assisted in designing user-centric interfaces, focusing on UI/UX development and mobile-first responsiveness. Worked on database management tasks, ensuring efficient data handling for client projects. Troubleshot and resolved front-end and back-end bugs to improve website performance and user experience. <br><br>
+
+TECHNICAL SKILLS Languages: HTML5, CSS3, JavaScript (ES6+), PHP Database: MySQL Frameworks: Bootstrap Interests: Web Design, UI/UX Development, Problem Solving. <br><br>
+
+PERSONAL PROJECTS<br> 
+Learning Management System (LMS) | PHP, MySQL, Bootstrap Developed a web-based platform for educational content management. Implemented a secure user authentication and login system and managed database architecture. Portfolio Website | HTML, CSS, JavaScript, Bootstrap Designed and deployed a responsive personal portfolio to showcase projects. Focused on cross-browser compatibility and mobile-first responsiveness.
 
 
 ## 🌐 Socials:
